@@ -1,5 +1,5 @@
 .app__wrap {
-  background-color: #c9bdbd;
+  background-color: #dfdd9a;
   width: 400px;
   margin: 0 auto;
   color: rgb(44, 112, 97);
@@ -12,7 +12,7 @@
   border-radius: 30px;
 }
 body {
-  background: #a4c7ce;
+  background: #aab1f0;
 }
 ul {
   list-style: none;

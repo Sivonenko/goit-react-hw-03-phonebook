@@ -19,11 +19,11 @@
   animation: stripes 0.75s infinite linear;
   background: linear-gradient(
     45deg,
-    rgba(30, 255, 188, 1) 25%,
+    rgb(133, 144, 207) 25%,
     rgba(255, 255, 255, 1) 25%,
     rgba(255, 255, 255, 1) 50%,
-    rgba(30, 255, 188, 1) 50%,
-    rgba(30, 255, 188, 1) 75%,
+    rgb(133, 144, 207, 1) 50%,
+    rgb(133, 144, 207, 1) 75%,
     rgba(255, 255, 255, 1) 75%,
     rgba(255, 255, 255, 1)
   );
